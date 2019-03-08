@@ -14,7 +14,9 @@ def in_in_leh(ku):
         if ji.型 in 標點符號:
             piau += 1
 #     print('piau', piau)
-    print(len(it.網出詞物件()) - piau, len(it.篩出字物件()) - piau)
+    詞數 = len(it.網出詞物件())
+    字數 = len(it.篩出字物件())
+    print('{},{}, {},{}'.format(詞數, 詞數 - piau, 字數, 字數 - piau))
 #     print(len(it.網出詞物件()), len(it.篩出字物件()))
 #     for ku in it.內底句:
 #         print(ku.看型('-', ' '), len(ku.網出詞物件()) - 1)
@@ -27,9 +29,14 @@ def in_in_leh(ku):
 # http://ip194097.ntcu.edu.tw/nmtl/dadwt/
 # tbk
 
-with open('SB.1925.Chhoa3 Poe5-hoe2.Chap8-hang7 koan2-kian3_01.tbk', encoding='big5') as tong:
-    for ku in tong.readlines():
-        try:
-            in_in_leh(ku)
-        except:
-            print(ku)
+with open('./tsingli/leku-0612-hanlo.txt', encoding='utf-8') as tong:
+    for lineId, ku in enumerate(tong.readlines(), 1):
+#         print('lineId=', lineId)
+        isArticle = (lineId % 4 == 2) or (lineId % 4 == 3)
+        if isArticle:
+            try:
+                in_in_leh(ku)
+            except Exception as e:
+                print('無法度印：', str(e), ku)
+        else:
+            print('0')
