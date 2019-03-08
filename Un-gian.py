@@ -8,7 +8,9 @@ it_lo = 'Chhin-chhiūⁿ án-ni lâi kóng , chāi lán Tâi-ôan kīn-kīn chi�
 
 def in_in_leh(ku):
     # it_lo=it_lo.replace(',','').replace('!','').replace('.','').replace(';','').replace('?','')
-    it = 拆文分析器.建立章物件(ku)
+    # 共輕聲詞拆開，a--b => 2
+    ku_bo_khinsiann = ku.replace('--', ' ') 
+    it = 拆文分析器.建立章物件(ku_bo_khinsiann)
     piau = 0
     for ji in it.篩出字物件():
         if ji.型 in 標點符號:
@@ -31,12 +33,9 @@ def in_in_leh(ku):
 
 with open('./tsingli/leku-0612-hanlo.txt', encoding='utf-8') as tong:
     for lineId, ku in enumerate(tong.readlines(), 1):
-#         print('lineId=', lineId)
-        isArticle = (lineId % 4 == 2) or (lineId % 4 == 3)
-        if isArticle:
+        isLomajiLine = (lineId % 11 == 3) or (lineId % 11 == 7)
+        if isLomajiLine:
             try:
                 in_in_leh(ku)
             except Exception as e:
                 print('無法度印：', str(e), ku)
-        else:
-            print('0')
