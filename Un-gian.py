@@ -31,9 +31,19 @@ def in_in_leh(ku):
 # http://ip194097.ntcu.edu.tw/nmtl/dadwt/
 # tbk
 
-with open('./tsingli/leku-0612-hanlo.txt', encoding='utf-8') as tong:
+# with open('./tsingli/leku-0612-hanlo.txt', encoding='utf-8') as tong:
+#     for lineId, ku in enumerate(tong.readlines(), 1):
+#         isLomajiLine = (lineId % 11 == 3) or (lineId % 11 == 7)
+#         if isLomajiLine:
+#             try:
+#                 in_in_leh(ku)
+#             except Exception as e:
+#                 print('無法度印：', str(e), ku)
+
+
+with open('./tsingli/leku-0705-hanlo.txt', encoding='utf-8') as tong:
     for lineId, ku in enumerate(tong.readlines(), 1):
-        isLomajiLine = (lineId % 11 == 3) or (lineId % 11 == 7)
+        isLomajiLine = (lineId % 4 == 3)
         if isLomajiLine:
             try:
                 in_in_leh(ku)
