@@ -27,8 +27,8 @@
 |    |                                      |      |                      |                                                        |                                   |      | 
 |----|--------------------------------------|------|----------------------|--------------------------------------------------------|-----------------------------------|------| 
 | 編號 | 文本                                   | 年    | 作者                   | 原文                                                     | 原文頭幾字                             | 其他連結 | 
-| 1  | Pe̍h-ōe-jī ê Lī-ek  白話字ê利益           | 1885 | Ia̍p Bo̍k-su  葉牧師    | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=1)   | 論寫白話字較贏寫中國字，                      |      | 
-| 2  | Pe̍h-ōe-jī ê Lī-ek  白話字ê利益           | 1885 | Ia̍p Bo̍k-su  葉牧師    | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=1)   | 我照我愚戇ê意見，                         |      | 
+| 1  | Pe̍h-ōe-jī ê Lī-ek  白話字ê利益           | 1885 | Ia̍p Bo̍k-su  葉牧師    | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=1)   | 論寫白話字較贏寫中國字，                      |  [台語文記憶](http://ip194097.ntcu.edu.tw/Memory/TGB/thak.asp?id=182&page=2)    | 
+| 2  | Pe̍h-ōe-jī ê Lī-ek  白話字ê利益           | 1886 | Lâu Bô͘-chheng 劉茂清    | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=1)   | 我照我愚戇ê意見，                         |    [台語文記憶](http://ip194097.ntcu.edu.tw/Memory/TGB/thak.asp?id=188&page=3)  | 
 | 3  |  Kau-chiàn ê Siau-sit  交戰ê消息         | 1905 | Phian-chi̍p-sek  編輯室 | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=254) | 近來tī 滿州攏無甚物聽見交戰ê消息                |      | 
 | 4  |  Kau-chiàn ê Siau-sit  交戰ê消息         | 1905 | Phian-chi̍p-sek  編輯室 | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=254) | Tī 東京濟濟人teh議論in城ni̍h有hiah-ni̍h大擾亂 |      | 
 | 5  | Thiàⁿ lí iâⁿ kè thong sè-kan 疼你贏過通世間 | 1955 | Lōa Jîn-seng  賴仁聲    | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=777) | 我這時家己感覺10分 ê 歹勢。                  |      | 
