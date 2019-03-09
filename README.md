@@ -1,4 +1,6 @@
 # Hap-sing Bun-pun
+[![Build Status](https://travis-ci.org/Sui-Siann-Dataset/Hap-sing_Bun-pun.svg?branch=master)](https://travis-ci.org/Sui-Siann-Dataset/Hap-sing_Bun-pun)
+
 允言變調實驗文本。觀察文本8段，試驗文本9段。
 
 ## 觀察文本
