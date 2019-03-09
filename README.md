@@ -1,11 +1,14 @@
 # Hap-sing Bun-pun
 允言變調實驗文本
 
-## 資料說明
+## 檔案說明
 ### 楊允言-台語變調系統實作研究.pdf
 實驗論文
 
-### re
+### un-gian.pdf
+允言老師的實驗資料統計
+
+### re/
 允言老師提供的檔案，`big5`編碼
 
 #### `leku-0000.txt`, `*-poj.txt`
@@ -15,18 +18,20 @@
 有標詞性的檔案，請參考論文第8頁下底`表2 變調註記`。
 佮`*-poj.txt`的檔案小可仔無仝，有改過腔口、詞綴。
 
-### re-utf-8
+### re-utf-8/
 `re`轉做`UTF-8`
 
-### tbk
-照老師的檔案，揣出原始文章
+### tbk/
+照老師的檔案，揣出[數位典藏](https://github.com/Taiwanese-Corpus/nmtl_2006_dadwt)ê文章
 
-### tsingli
-`re-utf-8`ê檔案，照 #5 一步一步整理好--ê。
-有mark kah無mark--ê，除了空白kah連字符外，攏是相仝--ê。
+### tsingli/
+1. `leku-****.txt`
+2. `leku-****-mark.txt`
+3. `leku-****-hanlo.txt`是照
 
-### un-gian.pdf
-允言老師的實驗統計
+第1,2種是自`re-utf-8`ê檔案，照 #5 一步一步整理好--ê。
+無mark(第1種) kah 有mark(第2種)--ê，除了空白kah連字符外，攏是相仝--ê。
+第3種是照第1種整理出教育部ê漢字kah羅馬字寫法。
 
 ### Un-gian.py
 統計字數的程式
