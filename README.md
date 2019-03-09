@@ -1,5 +1,17 @@
 # Hap-sing Bun-pun
-允言變調實驗文本
+允言變調實驗文本。觀察文本8段，試驗文本9段。
+
+## 觀察文本
+1. POJ版本：`tsingli/leku-0612.txt`
+2. 教育部漢字羅馬字版本：`tsingli/leku-0612-hanlo.txt`
+2. 詞性kah變調情形：`tsingli/leku-0612-mark.txt`
+
+## 試驗文本
+1. POJ版本：`tsingli/leku-0705.txt`
+2. 教育部漢字羅馬字版本：`tsingli/leku-0705-hanlo.txt`
+2. 詞性kah變調情形：`tsingli/leku-0705-mark.txt`
+
+
 
 ## 檔案說明
 ### 楊允言-台語變調系統實作研究.pdf
