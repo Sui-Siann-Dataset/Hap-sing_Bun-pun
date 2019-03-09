@@ -6,6 +6,17 @@
 2. 教育部漢字羅馬字版本：`tsingli/leku-0612-hanlo.txt`
 2. 詞性kah變調情形：`tsingli/leku-0612-mark.txt`
 
+| 編號 | 文本                            | 年    | 作者               | 數位典藏原文                                                             | 數位典藏搜揣文字                 | 其他連結                                                                          | 
+|----|-------------------------------|------|------------------|----------------------------------------------------------------|----------------------|-------------------------------------------------------------------------------| 
+| 1  | Tang-pō͘ thôan-tō kiàn-bûn-kì | 1961 | Tân Kàng-siông   | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=975)  | 「Lín kiám無講，         | [台語文記憶](http://ip194097.ntcu.edu.tw/memory/tgb/thak.asp?id=929&page=3)                 | 
+| 2  | Tang-pō͘ thôan-tō kiàn-bûn-kì | 1961 | Tân Kàng-siông   | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=975) | 我若問hia ê兄弟講，         | [台語文記憶](http://ip194097.ntcu.edu.tw/memory/tgb/thak.asp?id=929&page=10)                | 
+| 3  | Chháu-tui-téng ê Bîn-bāng     | 1955 | N̂g Hôai-un      | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=781)         | 到hit ē暗              |                                                                               | 
+| 4  | Chháu-tui-téng ê Bîn-bāng     | 1955 | N̂g Hôai-un      | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=781)         | 瑪莉有時著用雙手來掩伊          |                                                                               | 
+| 5  | Sin-bûn Ê Cha̍p-lio̍k         | 1913 | Bô Chù-bêng  無注明 | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=307)         | 有一日我tī 街路teh行        |                                                                               | 
+| 6  | Sin-bûn Ê Cha̍p-lio̍k         | 1913 | Bô Chù-bêng  無注明 | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=309)         | 過幾日koh得著機會thang 結謙遜、 | [台灣白話字文獻館](http://pojbh.lib.ntnu.edu.tw/script/src-3311.htm)                              | 
+| 7  | Cha̍p-hāng Kóan-kiàn          | 1925 |  Chhòa Pôe-hóe   | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=314)         | 外國人o-ló 咱ê 台灣秀麗；     | [冊目錄](http://www.laijohn.com/archives/pc/Chhoa/Chhoa,Phoe/works/chap/contents.htm) | 
+| 8  | Cha̍p-hāng Kóan-kiàn          | 1925 |  Chhòa Pôe-hóe   | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=314)         | 親像án-ni來講，           | [冊目錄](http://www.laijohn.com/archives/pc/Chhoa/Chhoa,Phoe/works/chap/contents.htm) | 
+
 ## 試驗文本
 1. POJ版本：`tsingli/leku-0705.txt`
 2. 教育部漢字羅馬字版本：`tsingli/leku-0705-hanlo.txt`
