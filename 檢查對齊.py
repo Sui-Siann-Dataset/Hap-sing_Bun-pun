@@ -11,8 +11,10 @@ def main(tongmia):
                 and len(tsua[kui + 1]) >= 5
                 and len(tsua[kui + 2]) >= 5
             ):
-                if not tsua[kui + 1].rstrip()[-1].isdigit():
-                    句物件 = 拆文分析器.建立句物件(tsua[kui + 1], tsua[kui + 2])
+                漢字上尾毋是年代 = not tsua[kui + 1].rstrip()[-1].isdigit()
+                if 漢字上尾毋是年代:
+                    處理掉分析器無法度處理ê印號 = tsua[kui + 2].replace("'", " ' ")
+                    句物件 = 拆文分析器.建立句物件(tsua[kui + 1], 處理掉分析器無法度處理ê印號)
 
 
 if __name__ == '__main__':
