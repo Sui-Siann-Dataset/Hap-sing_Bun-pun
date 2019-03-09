@@ -14,8 +14,8 @@
 | 4  | Chháu-tui-téng ê Bîn-bāng 草堆頂ê眠夢    | 1955 | N̂g Hôai-un 黃懷恩     | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=781)         | 瑪莉有時著用雙手來掩伊          |                                                                               | 
 | 5  | Sin-bûn Ê Cha̍p-lio̍k 新聞ê雜錄        | 1913 | Bô Chù-bêng  無注明 | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=307)         | 有一日我tī 街路teh行        |                                                                               | 
 | 6  | Sin-bûn Ê Cha̍p-lio̍k 新聞ê雜錄        | 1913 | Bô Chù-bêng  無注明 | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=309)         | 過幾日koh得著機會thang 結謙遜、 | [台灣白話字文獻館](http://pojbh.lib.ntnu.edu.tw/script/src-3311.htm)                              | 
-| 7  | Cha̍p-hāng Kóan-kiàn 十項管見         | 1925 |  Chhòa Pôe-hóe 蔡培火  | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=314)         | 外國人o-ló 咱ê 台灣秀麗；     | [冊目錄](http://www.laijohn.com/archives/pc/Chhoa/Chhoa,Phoe/works/chap/contents.htm) | 
-| 8  | Cha̍p-hāng Kóan-kiàn 十項管見         | 1925 |  Chhòa Pôe-hóe 蔡培火  | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=314)         | 親像án-ni來講，           | [冊目錄](http://www.laijohn.com/archives/pc/Chhoa/Chhoa,Phoe/works/chap/contents.htm) | 
+| 7  | Cha̍p-hāng Kóan-kiàn 十項管見         | 1925 |  Chhòa Pôe-hóe 蔡培火  | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=314)         | 外國人o-ló 咱ê 台灣秀麗；     | [台語文記憶](http://ip194097.ntcu.edu.tw/Memory/TGB/thak.asp?id=881&page=8) | 
+| 8  | Cha̍p-hāng Kóan-kiàn 十項管見         | 1925 |  Chhòa Pôe-hóe 蔡培火  | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=314)         | 親像án-ni來講，           | [台語文記憶](http://ip194097.ntcu.edu.tw/Memory/TGB/thak.asp?id=881&page=10) | 
 
 ## 試驗文本
 1. POJ版本：`tsingli/leku-0705.txt`
