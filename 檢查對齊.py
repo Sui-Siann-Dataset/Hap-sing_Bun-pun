@@ -2,6 +2,12 @@ from sys import argv
 from 臺灣言語工具.解析整理.拆文分析器 import 拆文分析器
 from 用字.教典規範 import 教典
 
+tsiapsiu = {
+    ('莉', 'lī'),
+    ('啥', 'sím'),
+    ('過', 'kú'),
+}
+
 
 def main(tongmia):
     with open(tongmia, encoding='utf-8') as tong:
@@ -23,6 +29,8 @@ def main(tongmia):
                         elif 教典.有這个字無(字):
                             pass
                         elif 字.型 == 字.音:
+                            pass
+                        elif (字.型, 字.音) in tsiapsiu:
                             pass
                         else:
                             boji.append(字)
