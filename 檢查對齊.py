@@ -14,9 +14,9 @@ def main(tongmia):
         tsua = tong.readlines()
         for kui in range(len(tsua) - 2):
             if (
-                len(tsua[kui]) < 5
-                and len(tsua[kui + 1]) >= 5
-                and len(tsua[kui + 2]) >= 5
+                len(tsua[kui].rstrip()) < 5
+                and len(tsua[kui + 1].rstrip()) >= 5
+                and len(tsua[kui + 2].rstrip()) >= 5
             ):
                 漢字上尾毋是年代 = not tsua[kui + 1].rstrip()[-1].isdigit()
                 if 漢字上尾毋是年代:
