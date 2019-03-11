@@ -33,9 +33,9 @@
 | 4  |  Kau-chiàn ê Siau-sit  交戰ê消息         | 1905 | Phian-chi̍p-sek  編輯室 | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=254) | Tī 東京濟濟人teh議論in城ni̍h有hiah-ni̍h大擾亂 |   [台語文記憶](http://ip194097.ntcu.edu.tw/Memory/TGB/thak.asp?id=364&page=7)   | 
 | 5  | Thiàⁿ lí iâⁿ kè thong sè-kan 疼你贏過通世間 | 1955 | Lōa Jîn-seng  賴仁聲    | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=777) | 我這時家己感覺10分 ê 歹勢。                  |  [台語文記憶](http://ip194097.ntcu.edu.tw/Memory/TGB/thak.asp?id=1063&page=65)    | 
 | 6  | Thiàⁿ lí iâⁿ kè thong sè-kan 疼你贏過通世間 | 1955 | Lōa Jîn-seng  賴仁聲    | [連結](http://ip194097.ntcu.edu.tw/nmtl/dadwt/thak.asp?id=777) | 隔幾若日攏無接著回批，                       |  [台語文記憶](http://ip194097.ntcu.edu.tw/Memory/TGB/thak.asp?id=1063&page=82)    | 
-| 7  | Ài lí kap ài i pînn-á tsē 愛你kap愛伊平仔濟 | 1997 |  Lôo Tān-tshun 盧誕春   |                                                        |                                   |      | 
-| 8  | Ài lí kap ài i pînn-á tsē 愛你kap愛伊平仔濟 | 1997 |  Lôo Tān-tshun 盧誕春   |                                                        |                                   |      | 
-| 9  | Ài lí kap ài i pînn-á tsē 愛你kap愛伊平仔濟 | 1997 |  Lôo Tān-tshun 盧誕春   |                                                        |                                   |      | 
+| 7  | Ài lí kap ài i pînn-á tsē 愛你kap愛伊平仔濟 | 1997 |  Lôo Tàn-tshun 盧誕春   |                                                        |                                   |      | 
+| 8  | Ài lí kap ài i pînn-á tsē 愛你kap愛伊平仔濟 | 1997 |  Lôo Tàn-tshun 盧誕春   |                                                        |                                   |      | 
+| 9  | Ài lí kap ài i pînn-á tsē 愛你kap愛伊平仔濟 | 1997 |  Lôo Tàn-tshun 盧誕春   |                                                        |                                   |      | 
 
 
 
