@@ -7,6 +7,6 @@ env:
 - TONG_AN=tsingli/leku-0612-hanlo.txt
 - TONG_AN=tsingli/leku-0705-hanlo.txt
 install:
-- pip install tai5-uan5-gian5-gi2-kang1-ku7
+- pip install -r requirements.txt 
 script:
 - python 檢查對齊.py $TONG_AN
