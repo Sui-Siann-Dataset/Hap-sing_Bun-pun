@@ -74,3 +74,9 @@
 ### Un-gian.py
 統計字數的程式
 
+
+## 準備錄音稿
+```
+$ python 加本調符號.py tsingli/leku-0612-hanlo.txt tsingli/leku-0612-mark.txt  > 0612.html
+$ python 加本調符號.py tsingli/leku-0705-hanlo.txt tsingli/leku-0705-mark.txt  > 0705.html
+```
