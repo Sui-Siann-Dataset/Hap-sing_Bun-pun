@@ -18,7 +18,7 @@ Goa2(R) chit8-si5#(D;N) ka-ki7#(D;R;A;N) kam2-kak(V) 10#(N) hun#(N;V) e5(M) phai
 
 
 
-Keh(N) kui2-na7-jit8#(N) long2(D) bo5(D;C;T;V) chiap#(N) tioh8(D) hoe5(C;P;V) phoe#(N;V), sim#(N) chin(D) tioh8-kip#(A), si5-si5(A) tan2-hau7#(V). Hut-jian5(D) ti7(P) chit8#(N) e5(M) mng2-pou#(S) pang3-kho3(N) au7#(N;G) u7(D;P;V) iu5-chhai#(N) theh8(V) chit8-tiunn#(N) phoe#(N;V) lai5#(D;V). Khoann3(V) hit#(N) e5(M) phoe-long5#(N) chiu7(D) chai(V) si7(D;V) chit8#(N) e5(M) lu2-seng3#(N) kia3#(V) e5(M) phoe#(N;V). Goa2(R) tit8-kak#(N) si7(D;V) Biau7(A) kia3#(V)--e5%(M). Chiap#(N)--lai5%(D;V) chiu7(D) chau2-khi3(N) chit8-ui7#(N) siok-cheng7#(A) e5(M) sou2-chai7#(N) lai5(D;V) khui#(A;N;V). Ko2-jian5(D) si7#(D;V), chin(D) hoann-hi2(A;V) ka7(D;C;P;V) i(R;N) thak8#(N). Lai7-iong5#(N) sia2(V) an2-ni#(D;N).
+Keh(N) kui2-na7-jit8#(N) long2(D) bo5(D;C;T;V) chiap#(N) tioh8(D) hoe5(C;P;V) phoe#(N;V), sim#(N) chin(D) tioh8-kip#(A), si5-si5(A) tan2-hau7#(V). Hut-jian5(D) ti7(P) chit8#(N) e5(M) mng2-pou#(S) pang3-kho3(N) au7#(N;G) u7(D;P;V) iu5-chhai#(N) theh8(V) chit8-tiunn#(N) phoe#(N;V) lai5#(D;V). Khoann3(V) hit(N) e5(M) phoe-long5#(N) chiu7(D) chai(V) si7(D;V) chit8#(N) e5(M) lu2-seng3#(N) kia3#(V) e5(M) phoe#(N;V). Goa2(R) tit8-kak#(N) si7(D;V) Biau7(A) kia3#(V)--e5%(M). Chiap#(N)--lai5%(D;V) chiu7(D) chau2-khi3(N) chit8-ui7#(N) siok-cheng7#(A) e5(M) sou2-chai7#(N) lai5(D;V) khui#(A;N;V). Ko2-jian5(D) si7#(D;V), chin(D) hoann-hi2(A;V) ka7(D;C;P;V) i(R;N) thak8#(N). Lai7-iong5#(N) sia2(V) an2-ni#(D;N).
 
 
 
@@ -26,7 +26,7 @@ Keh(N) kui2-na7-jit8#(N) long2(D) bo5(D;C;T;V) chiap#(N) tioh8(D) hoe5(C;P;V) ph
 
 
 
-"Li2(R) khoann3(V) hit#(N) e5(M) teng-thah#(N). Tho2-hai2#(A;V) e5(M) lang5#(N) e7-tang3(D;A;V) oa2-kho3(V) teng-thah#(N) lai5(D;V) chhoe7(V) tioh8(D) kho3-hoann7#(A) e5(M) hi5-kang2#(N). Siau3-lian5#(A;N) e5(M) si5#(N;G), ma7(V) siunn7(V) beh$(D) chhan-chhiunn7(V) teng-thah#(N) lai5(D;V) hong3-hian3#(N) ka-ki7#(D;R;A;N). Chong2-si7#(D;C;V), chit-chun7#(S;A) ka-ki7#(D;R;A;N) soah(D;A;C;V) be5-sit8#(N) ti7(P) ou-ou-am3-am3#(N) e5(M) hai2(N) tiong-hng#(N)."
+"Li2(R) khoann3(V) hit(N) e5(M) teng-thah#(N). Tho2-hai2#(A;V) e5(M) lang5#(N) e7-tang3(D;A;V) oa2-kho3(V) teng-thah#(N) lai5(D;V) chhoe7(V) tioh8(D) kho3-hoann7#(A) e5(M) hi5-kang2#(N). Siau3-lian5#(A;N) e5(M) si5#(N;G), ma7(V) siunn7(V) beh$(D) chhan-chhiunn7(V) teng-thah#(N) lai5(D;V) hong3-hian3#(N) ka-ki7#(D;R;A;N). Chong2-si7#(D;C;V), chit-chun7#(S;A) ka-ki7#(D;R;A;N) soah(D;A;C;V) be5-sit8#(N) ti7(P) ou-ou-am3-am3#(N) e5(M) hai2(N) tiong-hng#(N)."
 
 
 
